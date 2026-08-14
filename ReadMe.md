@@ -46,6 +46,8 @@ The only thing that we need is MCU debug connector.
  ~ shaft ~
 ```
 
+| Pin  | Signal | Destination |
+|-------|-----|------------|
 | 1 | Reset | |
 | 2 | Vdd    | Provide Vdd from j-link or external power supply |
 | 3 | SWDIO | Connect to J-Link SWDIO|
